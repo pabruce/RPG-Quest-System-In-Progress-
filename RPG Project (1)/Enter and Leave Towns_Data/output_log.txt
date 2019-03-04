@@ -1,0 +1,53 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.177 seconds
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Patrick\Downloads\RPG Project (1)\Enter and Leave Towns_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.045916 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1e84 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.271488 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 538.
+Total: 0.120109 ms (FindLiveObjects: 0.026593 ms CreateObjectMapping: 0.014904 ms MarkObjects: 0.063707 ms  DeleteObjects: 0.014027 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.282300 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 565.
+Total: 0.116310 ms (FindLiveObjects: 0.026593 ms CreateObjectMapping: 0.019872 ms MarkObjects: 0.063123 ms  DeleteObjects: 0.006136 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.290191 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 538.
+Total: 0.116602 ms (FindLiveObjects: 0.026009 ms CreateObjectMapping: 0.014904 ms MarkObjects: 0.061662 ms  DeleteObjects: 0.013442 ms)
+
